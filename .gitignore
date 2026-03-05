@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Server
+server/node_modules
+server/.env
+
+# Documentation with secrets
+FILE_STRUCTURE.md
+server/README.md
+server/test.js
+CONTACT_SETUP.md
+COMPLETE.md
+DEPLOYMENT_GUIDE.md
+DEPLOY_QUICK.md
+GITHUB_MODELS_UPDATE.md
+AI_FEATURE.md
+AI_QUICK.md
+START_HERE.md
+QUICKSTART.md
+IMPLEMENTATION_SUMMARY.md
+CHECKLIST.md
+README_DOCS.md
+
